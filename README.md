@@ -69,9 +69,10 @@
 <p align="center">
   <a href="https://github.com/YashCube-x"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
   <a href="https://linkedin.com/in/yashcube07"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="https://leetcode.com/YashCube_X"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
+  <a href="https://leetcode.com/YashCube_X"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45"/></a>
   <a href="mailto:yashcube07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
+
 
 ---
 
