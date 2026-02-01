@@ -1,111 +1,83 @@
-# Hi 👋, I'm Suyash Prakash  
-### Computer Science Undergraduate | Full-Stack Developer | DSA & ML Enthusiast  
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Suyash%20Prakash&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Exploring%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=65" />
+</p>
 
-📍 Kanpur, Uttar Pradesh, India  
-📧 Email: yashcube07@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/yashcube07/  
-💻 GitHub: https://github.com/YashCube-x  
+<h2 align="center">Hi 👋, I'm Suyash Prakash</h2>
+<h4 align="center">Exploring AI | Full Stack Developer | DSA Enthusiast</h4>
+
+<p align="center">
+  <a href="https://myportfolio-ten-dun-65.vercel.app/"><b>🌐 Portfolio</b></a> •
+  <a href="https://linkedin.com/in/yashcube07"><b>LinkedIn</b></a> •
+  <a href="mailto:yashcube07@gmail.com"><b>Email</b></a> •
+  <a href="https://github.com/YashCube-x"><b>GitHub</b></a>
+</p>
 
 ---
 
 ## 🚀 About Me
-I am a **Computer Science Engineering undergraduate (CPI: 8.53)** with strong foundations in  
-**C++ and Data Structures & Algorithms**, and hands-on experience in **Full-Stack Web Development**.
-
-I enjoy solving complex problems, building real-world applications, and learning new technologies.  
-Currently, I am exploring **Machine Learning with Python** and working on projects that combine **backend APIs and AI models**.
-
-I am actively looking for **internship / entry-level opportunities** in:
-- Software Development  
-- Backend / Full-Stack Development  
-- Machine Learning / AI  
+- 🎓 Computer Science Undergraduate (CSE)
+- 🌱 Currently learning **Machine Learning & Deep Learning**
+- 👨‍💻 Building projects in **Full Stack + AI**
+- 💬 Ask me about **C++, DSA, React, Node.js, Python**
+- ⚡ Fun fact: *I think I’m funny 😄*
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-- C++ (DSA & CP)
-- JavaScript
-- Python
-- Java (basic)
-
-### 🌐 Web Development
-- Frontend: HTML, CSS, React  
-- Backend: Node.js, Express.js, FastAPI  
-- Databases: MongoDB, SQL  
-
-### 🤖 ML / AI
-- YOLO Object Detection
-- PyTorch (model inference)
-- NumPy, Pandas
-- scikit-learn (basics)
-
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- Linux
-- VS Code
-- Vercel (Deployment)
-- REST APIs, CI basics
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YashCube-x&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Personal Portfolio Website
-**Tech:** HTML, CSS, JavaScript, React  
-🔗 Live | GitHub  
-- Responsive portfolio to showcase skills and projects  
-- Clean UI, mobile-friendly design  
+## 🌐 Portfolio & Resume
+- 🔗 **Portfolio:** https://myportfolio-ten-dun-65.vercel.app/
+- 📄 **Resume:** https://drive.google.com/file/d/1dFjTu5oqDh7oSwn0GBkmixQuZIyZs9kb/view
 
 ---
 
-### 🔹 ChatBot Application
-**Tech:** Node.js, JavaScript  
-🔗 Live | GitHub  
-- Backend APIs with request handling  
-- Interactive user responses  
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://github.com/YashCube-x"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+  <a href="https://linkedin.com/in/yashcube07"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+  <a href="https://leetcode.com/YashCube_X"><img src="https://skillicons.dev/icons?i=leetcode" height="45"/></a>
+  <a href="mailto:yashcube07@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+</p>
 
 ---
 
-### 🔹 Urban Issue Detector API
-**Tech:** Python, FastAPI, YOLO  
-🔗 Live | GitHub  
-- REST API with YOLO-based object detection  
-- Detects potholes, garbage, damaged footpaths  
-- Swagger docs + deployment-ready setup  
+## 🧰 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,express,mongodb,mysql,linux,git,tailwind" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,fastapi,vercel" />
+</p>
 
 ---
 
-## 🏆 Achievements & Experience
+## 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashCube-x&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashCube-x&theme=tokyonight" />
+</p>
 
-- 🏅 **HackWithIndia Hackathon (MMMUT Gorakhpur)** – Top 50 out of 2500+ teams  
-- 🏅 **CODE RAID – Oblivion 2025 (NSUT)** – 8th Rank among 20 teams  
-- 🤝 **ICPC Regional Contest Volunteer** – Operations & coordination  
-
----
-
-## 🧠 Competitive Programming
-- **LeetCode**: Rating 1491 (Medium/Hard problems in C++)  
-- **GeeksforGeeks**: Regular practice & writeups  
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashCube-x&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📜 Certifications
-- Complete Web Development – Udemy (Hitesh Choudhary)
-- Cyber Security – IIT Kanpur
-- Blockchain Fundamentals
-- Robo Rumble – CSJMU Innovation Cell
+## 🧠 Current Focus
+- Machine Learning & Deep Learning
+- Backend APIs with FastAPI
+- DSA (C++)
+- Building real-world AI projects
 
 ---
 
-## 🎯 Hobbies & Interests
-- Chess ♟️  
-- Gym & Fitness 💪  
-- Swimming 🏊  
-- Traveling 🌍  
-- Exploring new tech 🚀  
-
----
-
-### ⭐ If you like my work, consider giving a star to my repositories!
+## ⭐ Support
+If you like my work, consider giving a ⭐ to my repositories  
+It motivates me to build more! 🚀
